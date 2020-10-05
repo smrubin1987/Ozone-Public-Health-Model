@@ -1,4 +1,4 @@
-# Springboard_Captsone2
+# Springboard_Capstone2
 Springboard Capstone2 Project
 
 1. Project Proposal: Modeling 8-Hour Ozone Emissions In Major U.S. Counties.
