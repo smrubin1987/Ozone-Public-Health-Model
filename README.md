@@ -48,7 +48,8 @@ Population estimation data for 2019 was acquired from https://www.census.gov/ fo
 *Exploratory Data Analysis*
 
 The distrubition of the maximum daily 8-hour Ozone concentrations by county for 2019 were shown through histrograms, a swarm plot, and a boxplot. Exploring the distribution and summary statistics of the Ozone concentrations by county indicates differences in both the distribution of Ozone by county throughout the year, and that certain counties have a much higher distribution of days with maximum 8-hour Ozone concentrations both over the health-concern threshold of 0.06ppm and the EPA attainment threshold of 0.07pm.
-![Screenshot](O3_swarmplot.png)
+
+![alt text](https://github.com/smrubin1987/Springboard_Capstone2/blob/main/Images/Histogram_O3.PNG)
 
 *Pre-processing and Training The Data*
 
@@ -64,7 +65,7 @@ Three model types (supervised learning) were chosen for classifying the dataset 
     - Random Forest Classifer
 
 Model accuracy ranged between 88-90% for classifying the county-level health concerns for Ozone based on county-level total population. 
-![Screenshot](ROC_AUC.png)
+![Screenshot](https://github.com/smrubin1987/Springboard_Capstone2/blob/main/Images/ROC_AUC.png)
 
 
 *Conclusions*
