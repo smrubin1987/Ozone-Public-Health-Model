@@ -1,11 +1,7 @@
 # Springboard_Capstone2
 Springboard Capstone2 Project
-
-Inline-style: 
+ 
 ![alt text](https://github.com/smrubin1987/Springboard_Capstone2/blob/main/Images/Cap2_HeadlineImagine.png)
-
-
-
 
 **Air Quality Health Differs Between Major U.S. Counties**
 
