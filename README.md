@@ -1,5 +1,5 @@
-# Springboard_Capstone2
-Springboard Capstone2 Project
+# Ozone Public Health Model
+Understanding Ground Level Ozone, Population, and Health Concern
  
 ![alt text](https://github.com/smrubin1987/Springboard_Capstone2/blob/main/Images/Cap2_HeadlineImagine.png)
 
